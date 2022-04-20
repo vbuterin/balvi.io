@@ -1,6 +1,6 @@
-Balvi is a direct gifting fund for deploying quickly to high-value Covid projects that traditional institutional or commercial funding sources tend to overlook for being too early or “outside the box”, or because there’s no financial incentive.
+Balvi is a scientific investment and direct gifting fund for deploying quickly to high-value COVID projects that traditional institutional or commercial funding sources tend to overlook for being too early or “outside the box”, or because there’s no financial incentive.
 
-The default preference is for projects in LIC/LMIC countries, in order to help address global inequity by working "from the bottom up", but any project with potential to create global benefit is in-scope regardless of location.
+The default preference is for projects in LIC/LMIC countries, in order to help address global inequity by working “from the bottom up”, but any project with potential to create global benefit is in-scope regardless of location.
 
 Our experience is that open source or public domain projects have the greatest potential to make a positive impact, so we favour those most strongly.
 
